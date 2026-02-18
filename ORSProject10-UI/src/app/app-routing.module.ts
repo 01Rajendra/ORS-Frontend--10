@@ -63,7 +63,7 @@ const routes: Routes = [
         component: CustomerlistComponent
     },
     {
-        path: 'customet/:id',
+        path: 'customer/:id',
         component: CustomerComponent
     },
 
